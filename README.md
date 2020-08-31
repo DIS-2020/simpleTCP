@@ -25,8 +25,8 @@ MacOS: skrive "brew install telnet" | Windows: Følg denne guide: https://www.te
 https://www.wireshark.org/download.html
 
 Hvis alt dette er downloaded og installeret korrekt, burde i kunne køre denne kode og dermed få en server der venter ved port 8080.
-Hvis I åbner jeres terminal og skriver "telnet 127.0.0.1 8080", vil i dermed kunne skrive beskeder i terminalen til jeres egen MAC-adresse. 
-Disse burde meget gerne vises i IDE'ens debugger konsol.
+Hvis I åbner jeres terminal og skriver "telnet 127.0.0.1 8080", vil i dermed kunne skrive beskeder i terminalen til jeres localhost. 
+Disse burde meget gerne vises i IDE'ens debug-konsol.
 
 Når dette er færdig, så tag et godt kig på koden og overvej følgende:
 - Hvad er "net"?
