@@ -28,7 +28,7 @@ Hvis alt dette er downloaded og installeret korrekt, burde i kunne køre denne k
 Hvis I åbner jeres terminal og skriver "telnet 127.0.0.1 8080", vil i dermed kunne skrive beskeder i terminalen til jeres localhost. 
 Disse burde meget gerne vises i IDE'ens debug-konsol.
 
-Når dette er færdig, så tag et godt kig på koden og overvej følgende:
+Når dette er færdig, så tag et godt kig på koden (eventuelt leg lidt med den) og overvej følgende:
 - Hvad er "net"?
 - Hvor bliver der åbnet for en socket?
 - Hvorfor bruger vi port 8080?
